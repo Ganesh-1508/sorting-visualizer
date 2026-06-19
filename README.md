@@ -21,10 +21,10 @@ An interactive web application that demonstrates how different sorting algorithm
 
 ## 📸 Screenshots
 <img width="1919" height="660" alt="image" src="https://github.com/user-attachments/assets/c651d36d-bfa7-4b33-a7d6-35328ec48a95" />
-*Before Sort
+*  Before Sort
 
 <img width="1919" height="731" alt="image" src="https://github.com/user-attachments/assets/86ce2e53-ddbc-431d-89c7-771a632b68eb" />
-*After Sort
+*  After Sort
 
 ## ▶️ How to Run
 
