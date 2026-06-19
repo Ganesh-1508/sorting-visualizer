@@ -4,14 +4,14 @@ An interactive web application that demonstrates how different sorting algorithm
 
 ## 🚀 Features
 
-* 🔹 Bubble Sort
-* 🔹 Selection Sort
-* 🔹 Insertion Sort
-* 🔹 Merge Sort
-* 🔹 Quick Sort
-* 🔹 Generate Random Array
-* 🔹 Adjustable Animation Speed
-* 🔹 Responsive User Interface
+*  Bubble Sort
+*  Selection Sort
+*  Insertion Sort
+*  Merge Sort
+*  Quick Sort
+*  Generate Random Array
+*  Adjustable Animation Speed
+*  Responsive User Interface
 
 ## 🛠️ Tech Stack
 
